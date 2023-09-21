@@ -19,6 +19,15 @@
   <img align="center" src="https://i.ibb.co/Mn7TW5s/filmora.png" width="50"></img>
 </div>
 
+<div align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heidy-A&show_icons=true&count_private=true&hide_border=true&title_color=F06292&icon_color=4A148Ctext_color=c9d1d9&bg_color=FFFFFF" alt="Heidy-A github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heidy-A&showlayout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=FFFFFF"
+</div>
+
 
 
 
