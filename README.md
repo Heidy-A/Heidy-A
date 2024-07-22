@@ -15,7 +15,7 @@
   <img align="center" src="https://i.ibb.co/TBc3gYD/photoshop.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/9gZxk9x/illustrator.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/0f8SHVk/indesing.png" width="50"></img>
-  <img align="center" src="https://i.ibb.co/kqvQ81z/premiere-pro.png" width="50"></img>
+  <img align="center" src="https://i.ibb.co/kqvQ81z/premiere-pro.png" width="50"></img> 
   <img align="center" src="https://i.ibb.co/Mn7TW5s/filmora.png" width="50"></img>
 </div>
 <!--
