@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1 align="center"> Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"> Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 </div>
 
 <img src="https://i.ibb.co/8DG4Lnh/mibanner-ha2.png">
