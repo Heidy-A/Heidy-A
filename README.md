@@ -9,7 +9,7 @@
   <img align="center" src="https://i.ibb.co/zfWDv39/css.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/VNsdVbF/js.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/Xx3Pfzq/react.png" width="50"></img>
-  <img align="center" src="https://i.ibb.co/ZxgpMKd/node.png" width="50"></img>
+  <img align="center" src="https://i.ibb.co/ZxgpMKd/node.png" width="50"></img> 
   <img align="center" src="https://i.ibb.co/0Z6Pc5w/git.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/QnDYk5N/github.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/TBc3gYD/photoshop.png" width="50"></img>
