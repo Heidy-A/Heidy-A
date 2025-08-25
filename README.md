@@ -4,7 +4,7 @@
  
 <img src="https://i.ibb.co/8DG4Lnh/mibanner-ha2.png">
  
-<div align="center">
+<div align="center"> 
 <img align="center" src="https://i.ibb.co/QkxY1sR/html.png" width="50"></img> 
   <img align="center" src="https://i.ibb.co/zfWDv39/css.png" width="50"></img>
   <img align="center" src="https://i.ibb.co/VNsdVbF/js.png" width="50"></img>
